@@ -5,9 +5,10 @@ Note: This repo is based on [UEdgeSkyline](https://github.com/0penth3wind0w/UEdg
 We use conda to manage our environment and there are our install commands in the following list.
 
 <pre><code>conda create --name skyline python=3.7
-	conda install rtree numpy openpyxl pandas -y
+conda install rtree numpy openpyxl pandas -y
 </code></pre>
 
+If you missing something needed, just following the error messages to install them.
 ## Skyline  
 All skyline method used are implemented in this folder.  
 - `prunePSky`: The original concept of this skyline method. No sliding window version.  
