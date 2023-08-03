@@ -2,13 +2,11 @@
 Note: This repo is based on [UEdgeSkyline](https://github.com/0penth3wind0w/UEdgeSkyline.git).
 
 ## Environment
-We use conda to manage our environment and there are our packet version in the following list.
+We use conda to manage our environment and there are our install commands in the following list.
 
 <pre><code>
-python >=3.6
-rtree
-numpy
-	
+	conda create --name skyline python=3.7
+	conda install rtree numpy openpyxl pandas -y
 </code></pre>
 
 ## Skyline  
