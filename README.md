@@ -12,8 +12,8 @@ If you missing something needed, just following the error messages to install th
 ## Skyline  
 All skyline method used are implemented in this folder.  
 - `prunePSky`: The original concept of this skyline method. No sliding window version.  
-- `slideBPSky`: It represented PRPO. It is equal to the brute force in [UEdgeSkyline](https://github.com/0penth3wind0w/UEdgeSkyline.git).
-- `slideUPSky`: It represented EPSU. It is equal to the method he proposed in [UEdgeSkyline](https://github.com/0penth3wind0w/UEdgeSkyline.git).
+- `slideBPSky`: It represented PRPO. It is likely to the brute force in [UEdgeSkyline](https://github.com/0penth3wind0w/UEdgeSkyline.git).
+- `slideUPSky`: It represented EPUS. It is likely to the method he proposed in [UEdgeSkyline](https://github.com/0penth3wind0w/UEdgeSkyline.git).
 
 ## Data  
 Data can be generated using generator.py in data folder.
