@@ -17,6 +17,8 @@ All skyline method used are implemented in this folder.
 
 ## Data  
 Data can be generated using generator.py in data folder.
+Or, you can just unzzip the data.zip file. 
+There are all use datasets in the experiment.
 
 The format of data is as follows:  
 
