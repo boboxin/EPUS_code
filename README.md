@@ -4,8 +4,7 @@ Note: This repo is based on [UEdgeSkyline](https://github.com/0penth3wind0w/UEdg
 ## Environment
 We use conda to manage our environment and there are our install commands in the following list.
 
-<pre><code>
-	conda create --name skyline python=3.7
+<pre><code>conda create --name skyline python=3.7
 	conda install rtree numpy openpyxl pandas -y
 </code></pre>
 
